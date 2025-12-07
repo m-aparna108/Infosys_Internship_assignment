@@ -9,7 +9,7 @@ Below is a list of the assignments/tasks completed during the internship, with l
 
 | S.No | Assignment / Task | Notebook Link |
 |------|------------------|---------------|
-| 1    | OOPs Concepts Assignment | [View Notebook](Opps_assignment_internship_Aparna.ipynb) |
+| 1    | OOPs Concepts Assignment | [View Notebook](Oops_assignment_internship_Aparna.ipynb) |
 | 2    | Python Text Preprocessing | [View Notebook](python_text_preprocessing.ipynb) |
 | 3    | Feature Extraction Assignment | [View Notebook](feature_extraction_assignment.ipynb) |
 
