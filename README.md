@@ -11,5 +11,6 @@ Below is a list of the assignments/tasks completed during the internship, with l
 |------|------------------|---------------|
 | 1    | OOPs Concepts Assignment | [View Notebook](Oops_assignment_internship_Aparna.ipynb) |
 | 2    | Python Text Preprocessing | [View Notebook](python_text_preprocessing.ipynb) |
-| 3    | Feature Extraction Assignment | [View Notebook](feature_extraction_assignment.ipynb) |
+| 3    | Feature Extraction(Bow,TD-IDF,Word2vec) Assignment | [View Notebook](feature_extraction_assignment.ipynb) |
+| 4    | Audio Analysis Assignment | [View Notebook](audio_analysis.ipynb) |
 
